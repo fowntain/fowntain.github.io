@@ -32,6 +32,11 @@ body{
   transition: 0.5s;
   border-radius: 10px;
   font-family: "Fredoka One";
+  color: rgb(3, 22, 44);
+  background-color:   #5d63da;
+  border-style: outset;
+  border-color: #6a23db;
+    
 }
 #parent > button {
   opacity: 1;
