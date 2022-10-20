@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
 html, body {
     max-width: 100%;
     max-height: 100%;
@@ -23,9 +26,10 @@ body{
   float: right;
   right:10px;
   bottom:35px;
-  background-color: #d467e0;
+  background-color: #9c58f5;
   transition: 0.5s;
-  border-radius: 15px;
+  border-radius: 10px;
+  font-family: "Fredoka One";
 }
 #parent > button {
   opacity: 1;
