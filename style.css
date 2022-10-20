@@ -36,6 +36,7 @@ body{
   background-color:   #5d63da;
   border-style: outset;
   border-color: #6a23db;
+  border-width: 0.2vw;
     
 }
 #parent > button {
