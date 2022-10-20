@@ -23,6 +23,7 @@ body{
   float: right;
   right:10px;
   bottom:35px;
+  background-color: black;
   transition: 0.5s;
 }
 #parent > button {
