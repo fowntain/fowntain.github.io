@@ -27,13 +27,13 @@ body{
   bottom:35px;
   background-color: #9c58f5;
   transition: 0.5s;
-  border-radius: 3px;
+  border-radius: 5px;
   font-family: "Arial";
   color: rgb(3, 22, 44);
   background-color:   #5d63da;
   border-style: outset;
   border-color: #6a23db;
-  border-width: 0.6vw;
+  border-width: 0.3vw;
   font-weight: bold;
 }
 #parent > button {
